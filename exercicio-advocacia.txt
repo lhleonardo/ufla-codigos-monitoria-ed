@@ -1,0 +1,7 @@
+Fila de prioridades
+
+Uma empresa de advocacia contratou você para resolver o problema de prioridade na análise de seus processos, pois alguns com menos importância estão sendo resolvidos antes daqueles com relevância mais alta.
+
+Com seus conhecimentos de Estrutura de Dados, implemente uma estrutura para definir corretamente a prioridade dos processos. A ideia do programa consiste no usuário solicitar qual processo deverá ser analisado e o programa toda vez informar aquele com prioridade mais alta no momento. 
+
+Dica: utilize uma MaxHeap.
